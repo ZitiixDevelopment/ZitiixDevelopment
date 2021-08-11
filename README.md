@@ -1,0 +1,4 @@
+- 👋 Hi, i'm Zitiix
+- 👀 .NET, NodeJs and Lua Programmer
+- 🌱 I’m currently learning F#
+- 📫 Discord:  Zitiix#0001
